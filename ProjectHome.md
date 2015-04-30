@@ -1,0 +1,1 @@
+This is a little module that helps users to use Recatpcha with some easings, like a Form class you can inherit to use Recaptcha  with no adds.
